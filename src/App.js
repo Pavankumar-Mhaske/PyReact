@@ -8,7 +8,7 @@ function App() {
           src="https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=400" 
           parg= "lorem10 lorem10 lorem10 lorem10 lorem10 lorem10 lorem10 lorem10 lorem10 "/>
     
-    <Cards name = "Javascript"
+    <Cards name = "Nodejs and Express"
           src="https://images.pexels.com/photos/5483077/pexels-photo-5483077.jpeg?auto=compress&cs=tinysrgb&w=400" 
           parg= "lorem10 lorem10 lorem10 lorem10 lorem10 lorem10 lorem10 lorem10 lorem10 " />
     <Cards name = "Javascript"
